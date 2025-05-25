@@ -1,14 +1,9 @@
 # 🌟 Olá! 👋 Seja bem-vindo, um website moderno e completo para você encontrar as melhores lojas, produtos e promoções em um só lugar.
-
 Fácil de navegar, rápido de usar e feito pra você economizar tempo e dinheiro. Acesse agora e descubra tudo o que temos a oferecer!
-
 <p align="center">
   <img src="assets\images\logo.png" width="560px"/>
 </p>
-
-
 # 📸 Fotos
-
 <br>
 <p align="center">
   <img src="assets\images\cel-left.png" width="240px"/>
