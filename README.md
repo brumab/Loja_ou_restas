@@ -40,12 +40,6 @@ Desenvolvido com a metodologia Mobile First
 
 Compatível com todos os dispositivos móveis
 
-Interface de usuário moderna, leve e agradável
-
-Textos fictícios (placeholders) utilizados onde necessário
-
-
-
 # 🛠️ Tecnologias Utilizadas
 
 HTML
