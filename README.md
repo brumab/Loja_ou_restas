@@ -3,7 +3,7 @@
 Fácil de navegar, rápido de usar e feito pra você economizar tempo e dinheiro. Acesse agora e descubra tudo o que temos a oferecer!
 
 <p align="center">
-  <img src="assets\images\logo.png" width="300px"/>
+  <img src="assets\images\logo.png" width="560px"/>
 </p>
 
 
