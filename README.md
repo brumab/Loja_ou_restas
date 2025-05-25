@@ -11,7 +11,7 @@ Fácil de navegar, rápido de usar e feito pra você economizar tempo e dinheiro
 
 <br>
 <p align="center">
-  <img src="Loja_ou_restas\assets\images\cel-left.png" width="470px"/>
+  <img src="assets\images\cel-left.png" width="470px"/>
   <img src="RestWebsite\assets\images\note.png" width="160px"/>
 </p>
 <br>
